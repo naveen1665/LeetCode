@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/naveen-166/LeetCode/tree/master/0011-container-with-most-water) |
 | [0078-subsets](https://github.com/naveen-166/LeetCode/tree/master/0078-subsets) |
 | [0137-single-number-ii](https://github.com/naveen-166/LeetCode/tree/master/0137-single-number-ii) |
 | [0189-rotate-array](https://github.com/naveen-166/LeetCode/tree/master/0189-rotate-array) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/naveen-166/LeetCode/tree/master/0011-container-with-most-water) |
 | [0125-valid-palindrome](https://github.com/naveen-166/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/naveen-166/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/naveen-166/LeetCode/tree/master/0189-rotate-array) |
@@ -87,4 +89,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/naveen-166/LeetCode/tree/master/0219-contains-duplicate-ii) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/naveen-166/LeetCode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
