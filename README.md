@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/naveen-166/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0260-single-number-iii](https://github.com/naveen-166/LeetCode/tree/master/0260-single-number-iii) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/naveen-166/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2665-minimum-time-to-repair-cars](https://github.com/naveen-166/LeetCode/tree/master/2665-minimum-time-to-repair-cars) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/naveen-166/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0069-sqrtx](https://github.com/naveen-166/LeetCode/tree/master/0069-sqrtx) |
+| [2665-minimum-time-to-repair-cars](https://github.com/naveen-166/LeetCode/tree/master/2665-minimum-time-to-repair-cars) |
 ## String
 |  |
 | ------- |
