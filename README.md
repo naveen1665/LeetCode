@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/naveen-166/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0260-single-number-iii](https://github.com/naveen-166/LeetCode/tree/master/0260-single-number-iii) |
 | [0455-assign-cookies](https://github.com/naveen-166/LeetCode/tree/master/0455-assign-cookies) |
+| [1306-minimum-absolute-difference](https://github.com/naveen-166/LeetCode/tree/master/1306-minimum-absolute-difference) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/naveen-166/LeetCode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/naveen-166/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2665-minimum-time-to-repair-cars](https://github.com/naveen-166/LeetCode/tree/master/2665-minimum-time-to-repair-cars) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/naveen-166/LeetCode/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/naveen-166/LeetCode/tree/master/0049-group-anagrams) |
 | [0455-assign-cookies](https://github.com/naveen-166/LeetCode/tree/master/0455-assign-cookies) |
+| [1306-minimum-absolute-difference](https://github.com/naveen-166/LeetCode/tree/master/1306-minimum-absolute-difference) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/naveen-166/LeetCode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 ## Counting
 |  |
