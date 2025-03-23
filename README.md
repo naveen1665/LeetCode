@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/naveen-166/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/naveen-166/LeetCode/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/naveen-166/LeetCode/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/naveen-166/LeetCode/tree/master/0049-group-anagrams) |
 | [0078-subsets](https://github.com/naveen-166/LeetCode/tree/master/0078-subsets) |
 | [0137-single-number-ii](https://github.com/naveen-166/LeetCode/tree/master/0137-single-number-ii) |
 | [0189-rotate-array](https://github.com/naveen-166/LeetCode/tree/master/0189-rotate-array) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/naveen-166/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/naveen-166/LeetCode/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/naveen-166/LeetCode/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/naveen-166/LeetCode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/naveen-166/LeetCode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/naveen-166/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/naveen-166/LeetCode/tree/master/0151-reverse-words-in-a-string) |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/naveen-166/LeetCode/tree/master/0012-integer-to-roman) |
+| [0049-group-anagrams](https://github.com/naveen-166/LeetCode/tree/master/0049-group-anagrams) |
 | [0219-contains-duplicate-ii](https://github.com/naveen-166/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0290-word-pattern](https://github.com/naveen-166/LeetCode/tree/master/0290-word-pattern) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/naveen-166/LeetCode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
@@ -131,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/naveen-166/LeetCode/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/naveen-166/LeetCode/tree/master/0049-group-anagrams) |
 | [0455-assign-cookies](https://github.com/naveen-166/LeetCode/tree/master/0455-assign-cookies) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/naveen-166/LeetCode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 ## Counting
