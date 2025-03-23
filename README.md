@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/naveen-166/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0260-single-number-iii](https://github.com/naveen-166/LeetCode/tree/master/0260-single-number-iii) |
 | [0455-assign-cookies](https://github.com/naveen-166/LeetCode/tree/master/0455-assign-cookies) |
+| [1604-least-number-of-unique-integers-after-k-removals](https://github.com/naveen-166/LeetCode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/naveen-166/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2665-minimum-time-to-repair-cars](https://github.com/naveen-166/LeetCode/tree/master/2665-minimum-time-to-repair-cars) |
 | [3429-special-array-i](https://github.com/naveen-166/LeetCode/tree/master/3429-special-array-i) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/naveen-166/LeetCode/tree/master/0012-integer-to-roman) |
 | [0219-contains-duplicate-ii](https://github.com/naveen-166/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0290-word-pattern](https://github.com/naveen-166/LeetCode/tree/master/0290-word-pattern) |
+| [1604-least-number-of-unique-integers-after-k-removals](https://github.com/naveen-166/LeetCode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 ## Tree
 |  |
 | ------- |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/naveen-166/LeetCode/tree/master/0011-container-with-most-water) |
 | [0455-assign-cookies](https://github.com/naveen-166/LeetCode/tree/master/0455-assign-cookies) |
+| [1604-least-number-of-unique-integers-after-k-removals](https://github.com/naveen-166/LeetCode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -129,4 +132,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0018-4sum](https://github.com/naveen-166/LeetCode/tree/master/0018-4sum) |
 | [0455-assign-cookies](https://github.com/naveen-166/LeetCode/tree/master/0455-assign-cookies) |
+| [1604-least-number-of-unique-integers-after-k-removals](https://github.com/naveen-166/LeetCode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
+## Counting
+|  |
+| ------- |
+| [1604-least-number-of-unique-integers-after-k-removals](https://github.com/naveen-166/LeetCode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 <!---LeetCode Topics End-->
