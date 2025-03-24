@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/naveen-166/LeetCode/tree/master/0049-group-anagrams) |
 | [0078-subsets](https://github.com/naveen-166/LeetCode/tree/master/0078-subsets) |
 | [0137-single-number-ii](https://github.com/naveen-166/LeetCode/tree/master/0137-single-number-ii) |
+| [0152-maximum-product-subarray](https://github.com/naveen-166/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0189-rotate-array](https://github.com/naveen-166/LeetCode/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/naveen-166/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0260-single-number-iii](https://github.com/naveen-166/LeetCode/tree/master/0260-single-number-iii) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/naveen-166/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0152-maximum-product-subarray](https://github.com/naveen-166/LeetCode/tree/master/0152-maximum-product-subarray) |
 ## Stack
 |  |
 | ------- |
