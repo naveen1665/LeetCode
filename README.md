@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/naveen-166/LeetCode/tree/master/0020-valid-parentheses) |
 | [0224-basic-calculator](https://github.com/naveen-166/LeetCode/tree/master/0224-basic-calculator) |
+| [0225-implement-stack-using-queues](https://github.com/naveen-166/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [2128-reverse-prefix-of-word](https://github.com/naveen-166/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 ## Sorting
 |  |
@@ -181,9 +182,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/naveen-166/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0387-first-unique-character-in-a-string](https://github.com/naveen-166/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 ## Number Theory
 |  |
 | ------- |
 | [1585-the-kth-factor-of-n](https://github.com/naveen-166/LeetCode/tree/master/1585-the-kth-factor-of-n) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/naveen-166/LeetCode/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
