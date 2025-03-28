@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/naveen-166/LeetCode/tree/master/0392-is-subsequence) |
 | [0953-reverse-only-letters](https://github.com/naveen-166/LeetCode/tree/master/0953-reverse-only-letters) |
 | [2128-reverse-prefix-of-word](https://github.com/naveen-166/LeetCode/tree/master/2128-reverse-prefix-of-word) |
+| [2470-removing-stars-from-a-string](https://github.com/naveen-166/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2265-partition-array-according-to-given-pivot](https://github.com/naveen-166/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2470-removing-stars-from-a-string](https://github.com/naveen-166/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 ## Linked List
 |  |
 | ------- |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/naveen-166/LeetCode/tree/master/0224-basic-calculator) |
 | [0225-implement-stack-using-queues](https://github.com/naveen-166/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [2128-reverse-prefix-of-word](https://github.com/naveen-166/LeetCode/tree/master/2128-reverse-prefix-of-word) |
+| [2470-removing-stars-from-a-string](https://github.com/naveen-166/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 ## Sorting
 |  |
 | ------- |
