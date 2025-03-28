@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/naveen-166/LeetCode/tree/master/0224-basic-calculator) |
 | [0290-word-pattern](https://github.com/naveen-166/LeetCode/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/naveen-166/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0392-is-subsequence](https://github.com/naveen-166/LeetCode/tree/master/0392-is-subsequence) |
 | [0953-reverse-only-letters](https://github.com/naveen-166/LeetCode/tree/master/0953-reverse-only-letters) |
 | [2128-reverse-prefix-of-word](https://github.com/naveen-166/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 ## Two Pointers
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/naveen-166/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/naveen-166/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/naveen-166/LeetCode/tree/master/0189-rotate-array) |
+| [0392-is-subsequence](https://github.com/naveen-166/LeetCode/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/naveen-166/LeetCode/tree/master/0455-assign-cookies) |
 | [0953-reverse-only-letters](https://github.com/naveen-166/LeetCode/tree/master/0953-reverse-only-letters) |
 | [2128-reverse-prefix-of-word](https://github.com/naveen-166/LeetCode/tree/master/2128-reverse-prefix-of-word) |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/naveen-166/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0152-maximum-product-subarray](https://github.com/naveen-166/LeetCode/tree/master/0152-maximum-product-subarray) |
+| [0392-is-subsequence](https://github.com/naveen-166/LeetCode/tree/master/0392-is-subsequence) |
 | [0396-rotate-function](https://github.com/naveen-166/LeetCode/tree/master/0396-rotate-function) |
 ## Stack
 |  |
