@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/naveen-166/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0735-asteroid-collision](https://github.com/naveen-166/LeetCode/tree/master/0735-asteroid-collision) |
 | [1306-minimum-absolute-difference](https://github.com/naveen-166/LeetCode/tree/master/1306-minimum-absolute-difference) |
+| [1319-unique-number-of-occurrences](https://github.com/naveen-166/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/naveen-166/LeetCode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/naveen-166/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2308-divide-array-into-equal-pairs](https://github.com/naveen-166/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/naveen-166/LeetCode/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/naveen-166/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/naveen-166/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+| [1319-unique-number-of-occurrences](https://github.com/naveen-166/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/naveen-166/LeetCode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [2308-divide-array-into-equal-pairs](https://github.com/naveen-166/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 ## Tree
