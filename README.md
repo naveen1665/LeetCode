@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/naveen-166/LeetCode/tree/master/0735-asteroid-collision) |
 | [1306-minimum-absolute-difference](https://github.com/naveen-166/LeetCode/tree/master/1306-minimum-absolute-difference) |
 | [1319-unique-number-of-occurrences](https://github.com/naveen-166/LeetCode/tree/master/1319-unique-number-of-occurrences) |
+| [1524-string-matching-in-an-array](https://github.com/naveen-166/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/naveen-166/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/naveen-166/LeetCode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/naveen-166/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/naveen-166/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/naveen-166/LeetCode/tree/master/0392-is-subsequence) |
 | [0953-reverse-only-letters](https://github.com/naveen-166/LeetCode/tree/master/0953-reverse-only-letters) |
+| [1524-string-matching-in-an-array](https://github.com/naveen-166/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [2128-reverse-prefix-of-word](https://github.com/naveen-166/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [2470-removing-stars-from-a-string](https://github.com/naveen-166/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 ## Two Pointers
@@ -231,4 +233,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/naveen-166/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## String Matching
+|  |
+| ------- |
+| [1524-string-matching-in-an-array](https://github.com/naveen-166/LeetCode/tree/master/1524-string-matching-in-an-array) |
 <!---LeetCode Topics End-->
