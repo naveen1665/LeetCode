@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0953-reverse-only-letters](https://github.com/naveen-166/LeetCode/tree/master/0953-reverse-only-letters) |
 | [1524-string-matching-in-an-array](https://github.com/naveen-166/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [2128-reverse-prefix-of-word](https://github.com/naveen-166/LeetCode/tree/master/2128-reverse-prefix-of-word) |
+| [2391-strong-password-checker-ii](https://github.com/naveen-166/LeetCode/tree/master/2391-strong-password-checker-ii) |
 | [2470-removing-stars-from-a-string](https://github.com/naveen-166/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 ## Two Pointers
 |  |
