@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/naveen-166/LeetCode/tree/master/0396-rotate-function) |
 | [1585-the-kth-factor-of-n](https://github.com/naveen-166/LeetCode/tree/master/1585-the-kth-factor-of-n) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/naveen-166/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/naveen-166/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Binary Search
 |  |
 | ------- |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/naveen-166/LeetCode/tree/master/0002-add-two-numbers) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/naveen-166/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/naveen-166/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/naveen-166/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1585-the-kth-factor-of-n](https://github.com/naveen-166/LeetCode/tree/master/1585-the-kth-factor-of-n) |
+| [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/naveen-166/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Design
 |  |
 | ------- |
