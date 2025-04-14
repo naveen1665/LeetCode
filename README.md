@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/naveen-166/LeetCode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/naveen-166/LeetCode/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/naveen-166/LeetCode/tree/master/0012-integer-to-roman) |
+| [0050-powx-n](https://github.com/naveen-166/LeetCode/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/naveen-166/LeetCode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/naveen-166/LeetCode/tree/master/0189-rotate-array) |
 | [0224-basic-calculator](https://github.com/naveen-166/LeetCode/tree/master/0224-basic-calculator) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/naveen-166/LeetCode/tree/master/0002-add-two-numbers) |
+| [0050-powx-n](https://github.com/naveen-166/LeetCode/tree/master/0050-powx-n) |
 | [0224-basic-calculator](https://github.com/naveen-166/LeetCode/tree/master/0224-basic-calculator) |
 ## Hash Table
 |  |
