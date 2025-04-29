@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/naveen-166/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/naveen-166/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0396-rotate-function](https://github.com/naveen-166/LeetCode/tree/master/0396-rotate-function) |
+| [0414-third-maximum-number](https://github.com/naveen-166/LeetCode/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/naveen-166/LeetCode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/naveen-166/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0594-longest-harmonious-subsequence](https://github.com/naveen-166/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/naveen-166/LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/naveen-166/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/naveen-166/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0414-third-maximum-number](https://github.com/naveen-166/LeetCode/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/naveen-166/LeetCode/tree/master/0455-assign-cookies) |
 | [0594-longest-harmonious-subsequence](https://github.com/naveen-166/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [1306-minimum-absolute-difference](https://github.com/naveen-166/LeetCode/tree/master/1306-minimum-absolute-difference) |
