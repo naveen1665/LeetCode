@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/naveen-166/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/naveen-166/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0260-single-number-iii](https://github.com/naveen-166/LeetCode/tree/master/0260-single-number-iii) |
+| [0268-missing-number](https://github.com/naveen-166/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/naveen-166/LeetCode/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/naveen-166/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0396-rotate-function](https://github.com/naveen-166/LeetCode/tree/master/0396-rotate-function) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/naveen-166/LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/naveen-166/LeetCode/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/naveen-166/LeetCode/tree/master/0260-single-number-iii) |
+| [0268-missing-number](https://github.com/naveen-166/LeetCode/tree/master/0268-missing-number) |
 | [2308-divide-array-into-equal-pairs](https://github.com/naveen-166/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 ## Math
 |  |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/naveen-166/LeetCode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/naveen-166/LeetCode/tree/master/0189-rotate-array) |
 | [0224-basic-calculator](https://github.com/naveen-166/LeetCode/tree/master/0224-basic-calculator) |
+| [0268-missing-number](https://github.com/naveen-166/LeetCode/tree/master/0268-missing-number) |
 | [0396-rotate-function](https://github.com/naveen-166/LeetCode/tree/master/0396-rotate-function) |
 | [1500-count-largest-group](https://github.com/naveen-166/LeetCode/tree/master/1500-count-largest-group) |
 | [1585-the-kth-factor-of-n](https://github.com/naveen-166/LeetCode/tree/master/1585-the-kth-factor-of-n) |
@@ -68,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/naveen-166/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0069-sqrtx](https://github.com/naveen-166/LeetCode/tree/master/0069-sqrtx) |
 | [0209-minimum-size-subarray-sum](https://github.com/naveen-166/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/naveen-166/LeetCode/tree/master/0268-missing-number) |
 | [2665-minimum-time-to-repair-cars](https://github.com/naveen-166/LeetCode/tree/master/2665-minimum-time-to-repair-cars) |
 ## String
 |  |
@@ -146,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/naveen-166/LeetCode/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/naveen-166/LeetCode/tree/master/0049-group-anagrams) |
 | [0219-contains-duplicate-ii](https://github.com/naveen-166/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/naveen-166/LeetCode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/naveen-166/LeetCode/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/naveen-166/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/naveen-166/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
@@ -217,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/naveen-166/LeetCode/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/naveen-166/LeetCode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/naveen-166/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0268-missing-number](https://github.com/naveen-166/LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/naveen-166/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/naveen-166/LeetCode/tree/master/0455-assign-cookies) |
 | [0594-longest-harmonious-subsequence](https://github.com/naveen-166/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
