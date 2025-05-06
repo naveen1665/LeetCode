@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2308-divide-array-into-equal-pairs](https://github.com/naveen-166/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2665-minimum-time-to-repair-cars](https://github.com/naveen-166/LeetCode/tree/master/2665-minimum-time-to-repair-cars) |
 | [3429-special-array-i](https://github.com/naveen-166/LeetCode/tree/master/3429-special-array-i) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/naveen-166/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1761-count-sorted-vowel-strings](https://github.com/naveen-166/LeetCode/tree/master/1761-count-sorted-vowel-strings) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/naveen-166/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/naveen-166/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/naveen-166/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Binary Search
 |  |
 | ------- |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-construct-k-palindrome-strings](https://github.com/naveen-166/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/naveen-166/LeetCode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [2308-divide-array-into-equal-pairs](https://github.com/naveen-166/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/naveen-166/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Tree
 |  |
 | ------- |
