@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/naveen-166/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0594-longest-harmonious-subsequence](https://github.com/naveen-166/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0735-asteroid-collision](https://github.com/naveen-166/LeetCode/tree/master/0735-asteroid-collision) |
+| [1036-rotting-oranges](https://github.com/naveen-166/LeetCode/tree/master/1036-rotting-oranges) |
 | [1306-minimum-absolute-difference](https://github.com/naveen-166/LeetCode/tree/master/1306-minimum-absolute-difference) |
 | [1319-unique-number-of-occurrences](https://github.com/naveen-166/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1524-string-matching-in-an-array](https://github.com/naveen-166/LeetCode/tree/master/1524-string-matching-in-an-array) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0112-path-sum](https://github.com/naveen-166/LeetCode/tree/master/0112-path-sum) |
 | [0463-island-perimeter](https://github.com/naveen-166/LeetCode/tree/master/0463-island-perimeter) |
+| [1036-rotting-oranges](https://github.com/naveen-166/LeetCode/tree/master/1036-rotting-oranges) |
 ## Binary Tree
 |  |
 | ------- |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/naveen-166/LeetCode/tree/master/0463-island-perimeter) |
+| [1036-rotting-oranges](https://github.com/naveen-166/LeetCode/tree/master/1036-rotting-oranges) |
 ## Combinatorics
 |  |
 | ------- |
