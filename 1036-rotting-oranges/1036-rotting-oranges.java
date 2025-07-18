@@ -1,62 +1,63 @@
-class Pair {
+class Pair{
     int row;
     int col;
-    int tm;
-
-    public Pair(int row, int col, int tm) {
-        this.row = row;
-        this.col = col;
-        this.tm = tm;
+    int time;
+    public Pair(int row,int col,int time)
+    {
+        this.row=row;
+        this.col=col;
+        this.time=time;
     }
 }
-
 class Solution {
     public int orangesRotting(int[][] grid) {
-        Queue<Pair> qi=new LinkedList<>();
         int n=grid.length;
         int m=grid[0].length;
-        int cnt=0;
-        int reff[][]=new int [n][m];
+        Queue<Pair> queue=new LinkedList<>();
+        // int reff[][]=new int [n][m];
+
         for(int i=0;i<n;i++)
         {
             for(int j=0;j<m;j++)
             {
                 if(grid[i][j]==2)
                 {
-                    qi.add(new Pair(i,j,0));
-                    reff[i][j]=2;
+                    queue.add(new Pair(i,j,0));
+                    // reff[i][j]=2;
                 }
-                else if(grid[i][j]==1)
-                    cnt++;
             }
         }
-        int tm=0;
-        int fcnt=0;
-        int drow[]={-1,0,1,0};
-        int dcol[]={0,1,0,-1};
-        while(!qi.isEmpty())
+
+        int time=0;
+        int[] drow={-1,0,1,0};
+        int[] dcol={0,1,0,-1};
+        while(!queue.isEmpty())
         {
-            int row=qi.peek().row;
-            int col=qi.peek().col;
-            tm=Math.max(tm,qi.peek().tm);
-            qi.remove();
+            int nrow=queue.peek().row;
+            int ncol=queue.peek().col;
+            time=Math.max(time,queue.peek().time);
+            queue.remove();
             for(int i=0;i<4;i++)
             {
-                int nrow=row+drow[i];
-                int ncol=col+dcol[i];
-                if(nrow>=0 && nrow<n && ncol>=0 && ncol<m &&grid[nrow][ncol]==1 && reff[nrow][ncol]==0) 
+                int row=nrow+drow[i];
+                int col=ncol+dcol[i];
+                if(row>=0 && row<n && col>=0 && col<m && grid[row][col]==1)
                 {
-                    qi.add(new Pair(nrow,ncol,tm+1));
-                    reff[nrow][ncol]=2;
-                    fcnt++;
-
+                    queue.add(new Pair(row,col,time+1));
+                    grid[row][col]=2;
                 }
-
             }
         }
-        if(cnt!=fcnt)
-            return -1;
-        return tm;
+        for(int i=0;i<n;i++)
+        {
+            for(int j=0;j<m;j++)
+            {
+                if(grid[i][j]==1)
+                    return -1;
+            }
+        }
+        return time;
+        
         
     }
 }
