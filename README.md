@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/naveen-166/LeetCode/tree/master/0039-combination-sum) |
 | [0049-group-anagrams](https://github.com/naveen-166/LeetCode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/naveen-166/LeetCode/tree/master/0051-n-queens) |
+| [0075-sort-colors](https://github.com/naveen-166/LeetCode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/naveen-166/LeetCode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/naveen-166/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/naveen-166/LeetCode/tree/master/0090-subsets-ii) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/naveen-166/LeetCode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/naveen-166/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/naveen-166/LeetCode/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/naveen-166/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/naveen-166/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/naveen-166/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/naveen-166/LeetCode/tree/master/0151-reverse-words-in-a-string) |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0018-4sum](https://github.com/naveen-166/LeetCode/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/naveen-166/LeetCode/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/naveen-166/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/naveen-166/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/naveen-166/LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/naveen-166/LeetCode/tree/master/0347-top-k-frequent-elements) |
