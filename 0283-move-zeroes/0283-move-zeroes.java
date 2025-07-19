@@ -1,17 +1,23 @@
 class Solution {
     public void moveZeroes(int[] nums) {
-        int low=0;
-        int mid=0;
-        while(mid<nums.length)
+        Queue<Integer> queue=new LinkedList<>();
+        int n=nums.length;
+        for(int i=0;i<n;i++)
         {
-            if(nums[mid]!=0)
+            if(nums[i]!=0)
             {
-                int temp=nums[mid];
-                nums[mid]=nums[low];
-                nums[low]=temp;
-                low++;
+                queue.add(nums[i]);
             }
-            mid++;
         }
+        for(int i=0;i<n;i++)
+        {
+            if(!queue.isEmpty())
+            {
+                nums[i]=queue.remove();
+            }
+            else
+                nums[i]=0;
+        }
+        
     }
 }
