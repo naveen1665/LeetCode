@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/naveen-166/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/naveen-166/LeetCode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/naveen-166/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/naveen-166/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2308-divide-array-into-equal-pairs](https://github.com/naveen-166/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2665-minimum-time-to-repair-cars](https://github.com/naveen-166/LeetCode/tree/master/2665-minimum-time-to-repair-cars) |
 | [3429-special-array-i](https://github.com/naveen-166/LeetCode/tree/master/3429-special-array-i) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2128-reverse-prefix-of-word](https://github.com/naveen-166/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/naveen-166/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/naveen-166/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/naveen-166/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Backtracking
 |  |
 | ------- |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/naveen-166/LeetCode/tree/master/0043-multiply-strings) |
 | [0735-asteroid-collision](https://github.com/naveen-166/LeetCode/tree/master/0735-asteroid-collision) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/naveen-166/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/naveen-166/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2470-removing-stars-from-a-string](https://github.com/naveen-166/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 ## Linked List
 |  |
