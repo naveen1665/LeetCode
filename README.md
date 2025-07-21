@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/naveen-166/LeetCode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/naveen-166/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/naveen-166/LeetCode/tree/master/0039-combination-sum) |
+| [0048-rotate-image](https://github.com/naveen-166/LeetCode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/naveen-166/LeetCode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/naveen-166/LeetCode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/naveen-166/LeetCode/tree/master/0053-maximum-subarray) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/naveen-166/LeetCode/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/naveen-166/LeetCode/tree/master/0012-integer-to-roman) |
 | [0043-multiply-strings](https://github.com/naveen-166/LeetCode/tree/master/0043-multiply-strings) |
+| [0048-rotate-image](https://github.com/naveen-166/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/naveen-166/LeetCode/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/naveen-166/LeetCode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/naveen-166/LeetCode/tree/master/0189-rotate-array) |
@@ -320,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/naveen-166/LeetCode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/naveen-166/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0463-island-perimeter](https://github.com/naveen-166/LeetCode/tree/master/0463-island-perimeter) |
 | [1036-rotting-oranges](https://github.com/naveen-166/LeetCode/tree/master/1036-rotting-oranges) |
