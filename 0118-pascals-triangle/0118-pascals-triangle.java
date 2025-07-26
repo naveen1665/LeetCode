@@ -8,9 +8,7 @@ class Solution {
         {
             res.add(genrow(i));
         }
-        return res;
-
-        
+        return res;                
     }
     public static List<Integer> genrow(int row)
     {
