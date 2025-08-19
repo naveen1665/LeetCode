@@ -9,28 +9,23 @@ class Pair{
         this.time=time;
     }
 }
+
 class Solution {
     public int orangesRotting(int[][] grid) {
+        Queue<Pair> queue=new LinkedList<>();
         int n=grid.length;
         int m=grid[0].length;
-        Queue<Pair> queue=new LinkedList<>();
-        // int reff[][]=new int [n][m];
-
         for(int i=0;i<n;i++)
         {
             for(int j=0;j<m;j++)
             {
                 if(grid[i][j]==2)
-                {
                     queue.add(new Pair(i,j,0));
-                    // reff[i][j]=2;
-                }
             }
         }
-
         int time=0;
-        int[] drow={-1,0,1,0};
-        int[] dcol={0,1,0,-1};
+        int drow[]={1,0,-1,0};
+        int dcol[]={0,1,0,-1};
         while(!queue.isEmpty())
         {
             int nrow=queue.peek().row;
@@ -39,13 +34,14 @@ class Solution {
             queue.remove();
             for(int i=0;i<4;i++)
             {
-                int row=nrow+drow[i];
-                int col=ncol+dcol[i];
-                if(row>=0 && row<n && col>=0 && col<m && grid[row][col]==1)
+                int row=drow[i]+nrow;
+                int col=dcol[i]+ncol;
+                if(row>=0 && col>=0 && row<n && col<m && grid[row][col]==1)
                 {
                     queue.add(new Pair(row,col,time+1));
                     grid[row][col]=2;
                 }
+
             }
         }
         for(int i=0;i<n;i++)
@@ -53,11 +49,11 @@ class Solution {
             for(int j=0;j<m;j++)
             {
                 if(grid[i][j]==1)
+                {
                     return -1;
+                }
             }
         }
         return time;
-        
-        
     }
 }
