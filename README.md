@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/naveen-166/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/naveen-166/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0189-rotate-array](https://github.com/naveen-166/LeetCode/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/naveen-166/LeetCode/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/naveen-166/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/naveen-166/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/naveen-166/LeetCode/tree/master/0229-majority-element-ii) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/naveen-166/LeetCode/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/naveen-166/LeetCode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/naveen-166/LeetCode/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/naveen-166/LeetCode/tree/master/0204-count-primes) |
 | [0224-basic-calculator](https://github.com/naveen-166/LeetCode/tree/master/0224-basic-calculator) |
 | [0268-missing-number](https://github.com/naveen-166/LeetCode/tree/master/0268-missing-number) |
 | [0396-rotate-function](https://github.com/naveen-166/LeetCode/tree/master/0396-rotate-function) |
@@ -324,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/naveen-166/LeetCode/tree/master/0204-count-primes) |
 | [1585-the-kth-factor-of-n](https://github.com/naveen-166/LeetCode/tree/master/1585-the-kth-factor-of-n) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/naveen-166/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Design
@@ -366,4 +369,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/naveen-166/LeetCode/tree/master/0739-daily-temperatures) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/naveen-166/LeetCode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
