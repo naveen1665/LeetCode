@@ -1,14 +1,15 @@
 class Solution {
     public int hammingWeight(int n) {
-        String s= Integer.toBinaryString(n);
-        int count=0;
-        for(int i=0;i<s.length();i++)
+        int res=0;
+        while(n>0)
         {
-            if(s.charAt(i)=='1')
+            if(n%2==1)
             {
-                count++;
+                res++;
             }
+            n=n>>1;
         }
-        return count;
+        return res;
+        
     }
 }
