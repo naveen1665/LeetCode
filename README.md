@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/naveen-166/LeetCode/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/naveen-166/LeetCode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/naveen-166/LeetCode/tree/master/0268-missing-number) |
+| [1610-xor-operation-in-an-array](https://github.com/naveen-166/LeetCode/tree/master/1610-xor-operation-in-an-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/naveen-166/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 ## Math
 |  |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/naveen-166/LeetCode/tree/master/0396-rotate-function) |
 | [1500-count-largest-group](https://github.com/naveen-166/LeetCode/tree/master/1500-count-largest-group) |
 | [1585-the-kth-factor-of-n](https://github.com/naveen-166/LeetCode/tree/master/1585-the-kth-factor-of-n) |
+| [1610-xor-operation-in-an-array](https://github.com/naveen-166/LeetCode/tree/master/1610-xor-operation-in-an-array) |
 | [1761-count-sorted-vowel-strings](https://github.com/naveen-166/LeetCode/tree/master/1761-count-sorted-vowel-strings) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/naveen-166/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/naveen-166/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
