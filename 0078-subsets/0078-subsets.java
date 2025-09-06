@@ -1,20 +1,20 @@
 class Solution {
     public List<List<Integer>> subsets(int[] nums) {
-        List<List<Integer>> sub=new ArrayList<>();
-        sub.add(new ArrayList<>());
-        for(int num: nums)
+        int n=nums.length;
+        int total=1<<n;
+        List<List<Integer>> res=new ArrayList<>();
+        for(int i=0;i<total;i++)
         {
-            int size=sub.size();
-            for(int i=0;i<size;i++)
+            List<Integer> temp=new ArrayList<>();
+            for(int j=0;j<n;j++)
             {
-                List<Integer> temp=new ArrayList<>(sub.get(i));
-                temp.add(num);
-                sub.add(temp);
-
+                if((i&(1<<j))!=0)
+                {
+                    temp.add(nums[j]);
+                }
             }
-
+            res.add(temp);
         }
-        return sub;
-        
+        return res;
     }
 }
