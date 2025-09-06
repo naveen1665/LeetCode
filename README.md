@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/naveen-166/LeetCode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/naveen-166/LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/naveen-166/LeetCode/tree/master/0137-single-number-ii) |
+| [0231-power-of-two](https://github.com/naveen-166/LeetCode/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/naveen-166/LeetCode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/naveen-166/LeetCode/tree/master/0268-missing-number) |
 | [2308-divide-array-into-equal-pairs](https://github.com/naveen-166/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/naveen-166/LeetCode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/naveen-166/LeetCode/tree/master/0204-count-primes) |
 | [0224-basic-calculator](https://github.com/naveen-166/LeetCode/tree/master/0224-basic-calculator) |
+| [0231-power-of-two](https://github.com/naveen-166/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/naveen-166/LeetCode/tree/master/0268-missing-number) |
 | [0396-rotate-function](https://github.com/naveen-166/LeetCode/tree/master/0396-rotate-function) |
 | [1500-count-largest-group](https://github.com/naveen-166/LeetCode/tree/master/1500-count-largest-group) |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/naveen-166/LeetCode/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/naveen-166/LeetCode/tree/master/0050-powx-n) |
 | [0224-basic-calculator](https://github.com/naveen-166/LeetCode/tree/master/0224-basic-calculator) |
+| [0231-power-of-two](https://github.com/naveen-166/LeetCode/tree/master/0231-power-of-two) |
 ## Hash Table
 |  |
 | ------- |
